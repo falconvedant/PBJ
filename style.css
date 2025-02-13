@@ -1,0 +1,45 @@
+html {
+  background-color: maroon;
+}
+
+body {
+  width: 600px;
+  margin: 50px auto;
+  background-color: rgb(255, 255, 255);
+  padding-left: 170px;
+  padding-top: 0.05px;
+  height: 725px;
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 10px;
+  border: 2px maroon solid;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: rgb(184, 134, 11);
+  font-style: italic;
+}
+
+h2 {
+  color: blue;
+  text-decoration: underline;
+}
+
+h1,
+h2 {
+  color: rgb(184, 134, 11);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+ul,
+ol {
+  font-family: cursive;
+  padding-left: 20px;
+}
